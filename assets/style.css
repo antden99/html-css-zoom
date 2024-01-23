@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+}
+
+.flex{
+    display: flex;
+    gap: 5px;
+    
+}
+
+.contenitor{
+    width: 80%;
+    max-width: 1200px;
+    margin: auto;   
+    height: 100%;
+}
+
+#site_header{
+    background-color: black;
+    height: 100px;
+}
+
+.position_item{
+    justify-content: end;
+    padding-top: 1px;
+}
+
+.color{
+    background-color: aqua;
+}
+
+#site_main{
+    height: 100vh
+}
+
+#site_footer{
+    background-color: #222222;
+    height: 150px;
+    
+}
+
+.btn{
+    background-color: #4a4a4a;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
