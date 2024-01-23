@@ -62,7 +62,6 @@ img{
 
 .user{
     width: calc(100%/7 - 4px - 5px);
-    background-color: blue;
     border: 4px solid;
     
 }
